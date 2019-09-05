@@ -3,7 +3,9 @@ site_name: Ingenieria de Software 2
 #theme: readthedocs
 
 nav:
-  - Generalidades: 'index.md'
+  - Generalidades:
+    - 'Antes de empezar': 'index.md'
+    - 'Componentes del área de proceso': 'componentesAreaProceso.md'
   - CMMI: 'cmmi.md'
   - Presentaciones: 'presentaciones.md'
   - Documentos: 'documentos.md'
