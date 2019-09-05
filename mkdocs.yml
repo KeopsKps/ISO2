@@ -6,6 +6,8 @@ nav:
   - Generalidades:
     - 'Antes de empezar': 'index.md'
     - 'Componentes del área de proceso': 'componentesAreaProceso.md'
+    - 'Componentes asociados a la seccion CMMI': 'componentesSeccionCMMI.md'
+    - 'Componentes informativos de soporte': 'componentesInformativosSoporte.md'
   - CMMI: 'cmmi.md'
   - Presentaciones: 'presentaciones.md'
   - Documentos: 'documentos.md'

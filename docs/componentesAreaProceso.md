@@ -25,11 +25,3 @@ CMMI son las prácticas específicas y genéricas.
 #### Componentes informativos
 
 Los componentes informativos son componentes CMMI que ayudan a los usuarios del modelo a comprender los componentes CMMI requeridos y esperados. Estos componentes pueden ser ejemplos en un recuadro, explicaciones detalladas u otras informaciones útiles.
-
-### Componentes asociados a la sección de CMMI
-
-Las siguientes secciones proporcionan descripciones detalladas de los componentes del modelo CMMI.
-
-#### Áreas de proceso
-
-Un área de proceso es un grupo de prácticas relacionadas dentro de un área que, cuando se implementan conjuntamente, satisface un conjunto de metas consideradas importantes para mejorar ese área.
