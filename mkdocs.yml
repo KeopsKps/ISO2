@@ -2,11 +2,9 @@ site_name: Ingenieria de Software 2
 
 #theme: readthedocs
 
-lang: 'es'
-
 nav:
-- Generalidades: 'index.md'
-- CMMI: 'cmmi.md'
-- Presentaciones: ''
-- Documentos: ''
+  - Generalidades: 'index.md'
+  - CMMI: 'cmmi.md'
+  - Presentaciones: 'presentaciones.md'
+  - Documentos: 'documentos.md'
 
