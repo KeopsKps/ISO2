@@ -11,5 +11,7 @@ nav:
   - CMMI: 'cmmi.md'
   - Presentaciones: 'presentaciones.md'
   - Documentos: 'documentos.md'
-  - Formatos: 'formato.md'
+  - Formatos:
+    - 'Seguimiento de Informe Semestral del POI Docente': 'formatoSeguimiento.md'
+    - 'Calendario de Asignatura': 'formatoAsignatura.md'
 
