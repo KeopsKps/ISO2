@@ -4,7 +4,8 @@ site_name: Ingenieria de Software 2
 
 nav:
   - Generalidades:
-    - 'Antes de empezar': 'index.md'
+    - 'Presentación' : 'index.md'
+    - 'Antes de empezar': 'antesEmpezar.md'
     - 'Componentes del área de proceso': 'componentesAreaProceso.md'
     - 'Componentes asociados a la seccion CMMI': 'componentesSeccionCMMI.md'
     - 'Componentes informativos de soporte': 'componentesInformativosSoporte.md'
@@ -15,4 +16,6 @@ nav:
     - 'Seguimiento de Informe Semestral del POI Docente': 'formatoSeguimiento.md'
     - 'Calendario de Asignatura': 'formatoAsignatura.md'
     - 'Clase Dia 1': 'formatoClaseDia1.md'
+    - 'Guia de laboratorio': 'formatoGuiaLab.md'
+    - 'Avance Programatico Mensual': 'formatoAvanceMensual.md'
 

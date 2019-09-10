@@ -1,0 +1,3 @@
+### Formato: Guia de Laboratorio
+
+<iframe src="https://corc.sharepoint.com/sites/IngenieradeSoftware2/_layouts/15/Doc.aspx?sourcedoc={05a6761f-6387-4225-b4eb-714d6f09b37d}&amp;action=embedview&amp;wdStartOn=1" width="840px" height="480px" frameborder="0">Esto es un documento de <a target="_blank" href="https://office.com">Microsoft Office</a> incrustado con tecnología de <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
