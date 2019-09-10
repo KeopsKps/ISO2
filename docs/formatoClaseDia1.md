@@ -1,0 +1,3 @@
+### Formato: Clase Dia 1
+
+<iframe src="https://corc.sharepoint.com/sites/IngenieradeSoftware2/_layouts/15/Doc.aspx?sourcedoc={0569ed89-57d2-407e-a2a1-34dea816046b}&amp;action=embedview&amp;wdStartOn=1" width="840px" height="480px" frameborder="1">Esto es un documento de <a target="_blank" href="https://office.com">Microsoft Office</a> incrustado con tecnología de <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
