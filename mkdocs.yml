@@ -10,7 +10,10 @@ nav:
     - 'Componentes asociados a la seccion CMMI': 'componentesSeccionCMMI.md'
     - 'Componentes informativos de soporte': 'componentesInformativosSoporte.md'
   - CMMI: 'cmmi.md'
-  - Presentaciones: 'presentaciones.md'
+  - Presentaciones:
+    - 'Christhofer Gutierrez': 'presentaciones/presentacionChristhofer.md'
+    - 'Jose Andres' : 'presentaciones/presentacionJoseAndres.md'
+    - 'Emily Sinclair' : 'presentaciones/presentacionEmilySinclair.md'
   - Documentos: 'documentos.md'
   - Formatos:
     - 'Seguimiento de Informe Semestral del POI Docente': 'formatoSeguimiento.md'
@@ -18,4 +21,6 @@ nav:
     - 'Clase Dia 1': 'formatoClaseDia1.md'
     - 'Guia de laboratorio': 'formatoGuiaLab.md'
     - 'Avance Programatico Mensual': 'formatoAvanceMensual.md'
+    - 'Horas de consulta': 'formatoHoraConsulta.md'
+    - 'Informe cualitativo y cuantitativo': 'formatoCualitativo.md'
 

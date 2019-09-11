@@ -1,0 +1,3 @@
+### Trello vs Planner
+
+<iframe src="https://corc.sharepoint.com/sites/IngenieradeSoftware2/_layouts/15/Doc.aspx?sourcedoc={ce418713-968f-4a5f-8bf9-73b77bb29c71}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">Esto es un documento de <a target="_blank" href="https://office.com">Microsoft Office</a> incrustado con tecnología de <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>

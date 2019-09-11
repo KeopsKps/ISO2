@@ -1,0 +1,3 @@
+### Formato: Horas de consulta
+
+<iframe src="https://corc.sharepoint.com/sites/IngenieradeSoftware2/_layouts/15/Doc.aspx?sourcedoc={def603f5-d7a9-4359-b651-a340bffbf794}&amp;action=embedview&amp;wdStartOn=1" width="840px" height="480px" frameborder="0">Esto es un documento de <a target="_blank" href="https://office.com">Microsoft Office</a> incrustado con tecnología de <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
